@@ -7,6 +7,7 @@
 
 ## 스터디 진행 방법
 - classification 논문을 시작으로, 1주당 1팀이 개인적으로 공부 후 발표
+- 코드 구현 : pytorch로 진행
 - 질의응답 시간을 활용하여 의견을 나눔
 
 ## 스터디 진도표
@@ -17,4 +18,4 @@
 | ResNet ||||
 
 ## 참고링크 모음
-
+[Deep learning guidBook](https://hoya012.github.io/blog/deeplearning-classification-guidebook-1/)
