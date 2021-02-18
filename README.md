@@ -13,9 +13,11 @@
 ## 스터디 진도표
 | 논문 | 발표일 | 발표자 | 발표자료 | 
 |:----------------------------|:----------------------------:|:--------------------:|:-------------------:|
-| VGG ||||
-| GoogleNet ||||
-| ResNet ||||
+| [VGG](https://arxiv.org/pdf/1409.1556.pdf) ||||
+| [GoogleNet](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43022.pdf) ||||
+| [ResNet](https://arxiv.org/pdf/1512.03385.pdf) ||||
 
 ## 참고링크 모음
 [Deep learning guidBook](https://hoya012.github.io/blog/deeplearning-classification-guidebook-1/)
+[참고블로그 1](https://bskyvision.com/504)
+[참고블로그 2](https://blog.naver.com/laonple/220738560542)
